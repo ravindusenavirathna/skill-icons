@@ -190,6 +190,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `jenkins`      |    <img src="./icons/Jenkins-Dark.svg" width="48">    |
 |       `jest`       |        <img src="./icons/Jest.svg" width="48">        |
 |      `jquery`      |       <img src="./icons/JQuery.svg" width="48">       |
+|     `jupyter`      |      <img src="./icons/Jupyter-Dark.svg" width="48">  |
 |      `kafka`       |       <img src="./icons/Kafka.svg" width="48">        |
 |       `kali`       |     <img src="./icons/Kali-Dark.svg" width="48">      |
 |      `kotlin`      |    <img src="./icons/Kotlin-Dark.svg" width="48">     |
